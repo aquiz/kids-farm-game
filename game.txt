@@ -1,0 +1,64 @@
+THE GAME
+BY ASTRAEA QUISENBERRY AND DAVID QUISENBERRY
+
+PLOT
+you the player will be able to have a farm and a garden.  
+On your farm you will raise animals and feed them.  
+When you feed them they will grow.  
+If you breed two animals they will make a baby. 
+You will be able to buy and sell animals.
+You can also grow things in the garden and get seeds at the market.
+You will be able to plant seeds and water them and when you water them they will grow.
+you will be able to sell your fruits and vetchtibles at the market.
+You will keep track of your money at the bank.
+You will be able to borrow money from the bank.
+You can press buttons to make the weather change.
+
+ASSETS
+
+Types of plants
+flowers
+Stinging Nettle
+Trees
+Grass
+Corn
+Tomatoes
+Asparagus
+Onions
+Lemons
+Strawberries
+Blueberries
+
+Images 
+planted
+sprouted
+growing
+full
+
+Types of animals
+cows
+horses
+sheep
+pigs
+chickens
+bunnies
+dogs
+cats
+goats
+
+Images
+baby 
+small
+medium 
+large
+
+Other Images
+House
+Bank
+Fields
+Animal Pen
+Market
+People
+
+
+
